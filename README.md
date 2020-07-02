@@ -1,2 +1,2 @@
 # blogbling
-A UI For A Blogging Website
+A Blog UI Concept
